@@ -1,0 +1,8 @@
+Default	True	2.0	3
+GND	True	2.0	3
+I2C	True	2.0	3
+Power	True	2.0	3
+UART	True	2.0	3
+USB	True	2.0	3
+VBUS	True	2.0	3
+False	True	False
